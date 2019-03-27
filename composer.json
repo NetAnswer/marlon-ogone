@@ -1,5 +1,5 @@
 {
-    "name": "netanswer/marlon-ogone",
+    "name": "marlon-be/marlon-ogone",
     "autoload": {
         "psr-4": {
             "Ogone\\": "lib/Ogone/",
